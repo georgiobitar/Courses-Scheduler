@@ -1,0 +1,11 @@
+C:\Users\Georgio\source\repos\Courses Scheduler\Courses Scheduler\bin\Debug\Courses Scheduler.exe.config
+C:\Users\Georgio\source\repos\Courses Scheduler\Courses Scheduler\bin\Debug\Courses Scheduler.exe
+C:\Users\Georgio\source\repos\Courses Scheduler\Courses Scheduler\bin\Debug\Courses Scheduler.pdb
+C:\Users\Georgio\source\repos\Courses Scheduler\Courses Scheduler\obj\Debug\Courses Scheduler.csprojAssemblyReference.cache
+C:\Users\Georgio\source\repos\Courses Scheduler\Courses Scheduler\obj\Debug\Courses_Scheduler.MainPage.resources
+C:\Users\Georgio\source\repos\Courses Scheduler\Courses Scheduler\obj\Debug\Courses_Scheduler.Properties.Resources.resources
+C:\Users\Georgio\source\repos\Courses Scheduler\Courses Scheduler\obj\Debug\Courses Scheduler.csproj.GenerateResource.cache
+C:\Users\Georgio\source\repos\Courses Scheduler\Courses Scheduler\obj\Debug\Courses Scheduler.csproj.CoreCompileInputs.cache
+C:\Users\Georgio\source\repos\Courses Scheduler\Courses Scheduler\obj\Debug\Courses Scheduler.exe
+C:\Users\Georgio\source\repos\Courses Scheduler\Courses Scheduler\obj\Debug\Courses Scheduler.pdb
+C:\Users\Georgio\source\repos\Courses Scheduler\Courses Scheduler\obj\Debug\Courses_Scheduler.Schedule.resources
